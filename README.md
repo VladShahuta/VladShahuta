@@ -7,8 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-shahuta)
 [![Gmail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladyslavshahuta@gmail.com)
 ![Location](https://img.shields.io/badge/remote_/_EU-1a1a1a?style=for-the-badge)
-![Visits](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=b38b4d&label=profile+views)
-
 </div>
 
 ---
